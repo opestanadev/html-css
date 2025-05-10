@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cantos Arredondados</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: bisque;
+        }
+
+        main {
+            background-color: darksalmon;
+            padding: 10px;
+            width: 600px;
+            margin: auto;
+            text-align: center;
+            border-radius: 25px;
+        }
+
+        main > h1 {
+            color: white;
+        }
+
+        section {
+            background-color: #F2F2F2;
+            padding: 1.5px;
+            margin: auto;
+            margin-bottom: 20px;
+            box-shadow: 3px 2px 4px rgba(0, 0, 0, 0.379);
+        }
+
+        section#simetrico {
+            border-radius: 10px;
+        }
+
+        section#diferente {
+            border-radius: 10px 20px 30px 40px;
+        }
+
+        section#intercalado {
+            border-radius: 10px 30px;
+        }
+
+        section > h1, p {
+            text-align: left;
+            margin-left: 15px;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <h1>Cantos Arredondados</h1>
+        <section id="simetrico">
+            <h1>Cantos Simétricos</h1>
+            <p>Na declaração acima, todos os vértices foram levemente arredondados (10px) de forma simétrica.</p>
+        </section>
+        <section id="diferente">
+            <h1>Medidas Diferentes</h1>
+            <p>Se for necessário, podemos indicar quatro medidas diferentes, uma para cada vértice. Olhe atentamente para o resultado abaixo e perceba que cada ponta está diferente.</p>
+        </section>
+        <section id="intercalado">
+            <h1>Vértices Intercalados</h1>
+            <p>Assim como fizemos com as margens, também é possível indicar apenas dois valores, o que vai agir em vértices intercalados, partindo do canto superior esquerdo.</p>
+        </section>
+    </main>
+</body>
+</html>

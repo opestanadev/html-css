@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    /*
+    Medidas absolutas
+    cm, mm, in (polegada), px, pt, pc
+
+    Medidas Relativas
+    em (relativo ao tamanho da fonte), ex (relativo a altura-x da fonte), rem (relativo ao root, fonte do body), vw (relativo a largura da viewport), vh (relativo a altura da viewport), %
+    */
+    font-size: 1em;
+    /* Shorthand font
+    Use o comando font, e use-o sempre nessa ordem:
+    font-style -> font-weight -> font-size -> font-family
+    */
+}

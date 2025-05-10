@@ -1,0 +1,50 @@
+Blog pessoal
+
+Para praticar meus conhecimentos em HTML e CSS, e também saber se realmente tem valido a
+pena todas as horas gastas nesses cursos. Criarei um blog pessoal contendo informações pes-
+soais sobre mim, minhas redes sociais, as linguagens que eu sei utilizar e informações so-
+bre cada uma dessas linguagens em páginas separadas.
+
+Ao criar esse site, testarei meus conhecimentos através das seguintes tarefas:
+
+1. Criar uma página em HTML, com informações pessoais, trabalhando como inserir textos.
+2. Trabalhar com imagens.
+3. Trabalhar com mais de uma página e saber redirecionar o usuário para outros links (in-
+ternos e externos).
+4. Incorporar players de vídeo do Youtube
+5. Trabalhar com CSS para criar uma página harmônica e bonita, indo desde a paleta de cores
+a organizar os elementos de forma agradável.
+
+O site será organizado da seguinte forma:
+
+ --> Página principal:
+
+Uma sessão de "Sobre Mim", contendo uma imagem minha e uma pequena biografia.
+
+Na sessão "Sobre Meu Trabalho", destacarei algumas informações sobre a área que estudo e
+quais linguagens de programação eu tenho conhecimento. Para as três linguagens (HTML, CSS,
+JS), para cada linguagem, criarei uma página separada (mais informações na próxima sessão).
+
+Na sessão "Minhas Redes Sociais", terão links através de imagens clicáveis, que irão redi-
+recionar o visitante até minhas redes sociais, de acordo com a que ele clicar. Links exter-
+nos serão abertos numa aba separada para que o usuário permaneça no site.
+
+ --> Linguagens
+
+Serão três páginas, uma pra cada linguagem, elas seguirão o mesmo modelo e terão como dife-
+rença apenas o contéudo e a paleta de cores.
+
+A sessão "Sobre a Linguagem" terá uma pequena informação sobre a linguagem de programação,
+quem criou, onde surgiu, quando surgiu e onde é aplicado
+
+A sessão "Aprenda Você Também!" terá um link que irá redirecionar para uma página relacio-
+nada ao curso do Guanabara (informações na proxima sessão).
+
+E por último, a sessão "Meus Projetos" terão imagens e informações sobre o que eu trabalhei
+nos cursos (ou sozinho).
+
+ --> Curso
+
+A mais simples dentre os modelos de página que eu vou desenvolver. Nela terá um player do
+Youtube incorporado com um trailer do curso relacionado a linguagem, algumas informações e
+um link pra playlist do curso.
