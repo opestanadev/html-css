@@ -4,9 +4,10 @@ Mostrando para você que a Matemática é bem mais fácil do que parece
 
 [MENU]
 Home
-Curiosidades
 Sobre Nós
 Fale Conosco
+
+[HOME]
 
 Dia Internacional da Matemática
 
@@ -33,3 +34,45 @@ Escreveu mais de 120 livros, 50 deles dedicados à Matemática, o mais famoso de
 A Matemática como conhecemos atualmente surgiu no Antigo Egito e no Império Babilônico, por volta de 3500 a.C.
 
 Porém, desde a pré-história, os seres humanos já utilizavam a Matemática no cotidiano, utilizando conceitos de contar e medir. Então pode-se dizer que a Matemática não teve de fato um inventor, mas foi criada a partir da necessidade que nós seres humanos tínhamos em medir e contar objetos. Resumindo, podemos dizer que a Matemática está presente em tudo e em todas as coisas.
+
+Tanto o Antigo Egito quanto o Império Babilônico foram responsáveis por desenvolver um sistema de contagem e medição para que pudessem cobrar impostos de seus súditos, organizassem o plantio e a colheita, construíssem edificações etc.
+
+[FOTO]
+
+Posteriormente, os gregos utilizaram a matemática para fins práticos e também filosóficos. Aliás, um dos requisitos do estudo da filosofia era justamente possuir conhecimento da matemática, especialmente da geometria. Eles foram responsáveis por teorizar a respeito da natureza dos números, classificando-os em pares e ímpares, primos e compostos e outros. Foi na Grécia também que foram criados o Teorema de Pitágoras e o Teorema de Tales, conceitos que são ensinados até hoje nas escolas.
+
+Utilizando como base as descobertas dos gregos, os romanos também desenvolveram diversos conceitos importantíssimos para a Matemática, como por exemplo o sistema de números romanos, que ainda é utilizado até hoje quando nos referimos a datas, em especial séculos, séculos XX e XXI, por exemplo.
+
+[FOTO]
+
+[/EXTRA]
+
+Se quiser saber mais sobre essa história, dá uma olhada em História da Matemática e em Dia da Matemática lá no Toda Matéria, lá você encontra mais detalhes sobre o assunto. Dito isso, feliz Dia da Matemática!
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[SOBRE NÓS]
+
+[FOTO]
+
+A Matemática pode ser um bicho de sete cabeças às vezes, e pensando nisso, nós da Descomplica Matemática surgimos, para mostrar para as pessoas que com uma metodologia simples e lúdica, qualquer um pode aprender Matemática facilmente.
+
+Estamos comprometidos em trazer atividades, desafios e aulas que ensinem da maneira mais fácil possível, do mais simples ao mais complexo conceito da Matemática. Tudo isso completamente de graça, numa plataforma onde você pode contar com uma comunidade ativa que está sempre disposta a compartilhar seus conhecimentos e uma equipe de professores especializados que responde as suas dúvidas, a qualquer hora do dia.
+
+Tudo isso para provar para você que não, a Matemática não é um bicho de setes cabeças e você também pode entendê-la sem a menor dificuldade.
+
+Ficou interessado? Então entre em contato com a nossa equipe em Fale Conosco e saiba mais sobre essa iniciativa que veio para mudar a maneira como as pessoas enxergam a Matemática.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[FALE CONOSCO]
+
+[FOTO]
+
+É, eu sei que você provavelmente já estava comprando a ideia, mas tudo isso é mentira. Se existe uma plataforma que tenha como objetivo te ensinar Matemática (e eu garanto a você que tem), esse lugar não é aqui. Tudo isso não passa de um teste, para saber se todo esse período de quase um ano estudando programação está me levando pra algum lugar, se você estiver aqui, é porque provavelmente sim, eu realmente aprendi o que me foi ensinado.
+
+Se você quiser acompanhar mais dessa minha jornada, sinta-se livre para dar uma olhada no meu GitHub ou nas minhas redes sociais (se eu colocar elas aqui, claro), desde já obrigado pelo apoio, você é demais!
+
+Site criado por David Lucas
+
+
